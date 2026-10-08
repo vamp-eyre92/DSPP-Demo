@@ -4,6 +4,6 @@
 
 ## My Projects
 
-![histogram](/images/histogram.jpeg)
+![histogram](/images/histogram.jpg)
 
 [Link to GDPR](https://www.gov.uk/data-protection) 
