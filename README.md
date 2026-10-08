@@ -21,3 +21,7 @@
 - Data visualisation
 
 ## My Projects
+
+### NLP Project
+
+[![NLP Header](/images/NLP.png)](https://github.com/vamp-eyre92/DPP-NLP-Project)
